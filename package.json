@@ -1,0 +1,8 @@
+{
+    "name": "AWS-Auto-Scaling-Load-Balancing-NodeJsApp",
+    "version": "1.0.0",
+    "author": "Sujoy",
+    "dependencies": {
+        "express":"4.17.1"
+    }
+}
